@@ -9,3 +9,6 @@ fine_tuning/Sentiment_Train/__pycache__/
 
 # Ignore the output folder from the training scripts
 fine_tuning/fine_tuning_output/
+
+# Ignore the Fine_Tuning_Files
+fine_tuning/Fine_Tuning_Files/
