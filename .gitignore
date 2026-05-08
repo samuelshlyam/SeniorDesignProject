@@ -1,0 +1,10 @@
+# Ignore vscode config folder
+.vscode/
+
+# Ignore pycache folders
+fine_tuning/__pycache__/
+fine_tuning/Non_Sentiment_Train/__pycache__/
+fine_tuning/Sentiment_Train/__pycache__/
+
+# Ignore the output folder from the training scripts
+fine_tuning/fine_tuning_output/
