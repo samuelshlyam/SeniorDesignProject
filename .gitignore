@@ -1,5 +1,6 @@
 # Ignore vscode config folder
 .vscode/
+.DS_Store
 
 # Ignore pycache folders
 fine_tuning/__pycache__/
