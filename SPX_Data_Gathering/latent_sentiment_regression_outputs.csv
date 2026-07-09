@@ -1,4 +1,4 @@
-feature	coef
+feature,	coef
 intercept	0.06555590030657040
 y_lag1	0.6855546315451740
 ret	-3.228555033738440
